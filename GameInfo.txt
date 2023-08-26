@@ -1,0 +1,13 @@
+IFID: C4D7E4CD-6AAA-4D33-A9E3-56CE5BFB4F69
+Name: A Východ Tě osvobodí
+Byline: napsal Kroužící orel
+AuthorEmail: Luděk Šťastný <ludek.stastny@gmail.com>
+Desc: Textová hra sledující osud středověkého rytíře Orla z Lipé
+Version: 0.1
+ReleaseDate: 2023-08-26
+Genre: Středověké království české
+Forgiveness: Polite
+Language: cs-CZ
+LicenseType: Freeware
+CopyingRules: Nominal cost only; compilations allowed
+PresentationProfile: Default
